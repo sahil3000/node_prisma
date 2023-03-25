@@ -9,4 +9,3 @@
     we added database type, database url and make new schema i.e modal
     In model -> ? for optional field
 - npm install @prisma/client
-- 
